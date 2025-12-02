@@ -1,4 +1,4 @@
-# Calculadora de Tarifas de Autopistas �️
+# Calculadora de Tarifas de Autopistas 
 
 Programa sencillo en Python para calcular la tarifa según el tipo de vehículo.
 
